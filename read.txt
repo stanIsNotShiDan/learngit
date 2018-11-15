@@ -10,10 +10,6 @@ hahahaha
 yuanmin is shuai ge
 
 <<<<<<< HEAD
-yuan min ni yao nu li 
-=======
 yuan min ni yao nu li
-
-yuan min so cool
->>>>>>> feature1
-minmin
+weqweweqeqweqeqeqeqe
+minminminmin
